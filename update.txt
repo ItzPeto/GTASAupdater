@@ -1,1 +1,14 @@
+;aiu;
 
+[Update]
+Name = GTA San Andreas (Modernized)
+ProductVersion = 1.1.1.0
+URL = https://cdn.matix-media.net/dd/1a863169
+Size = 3785002966
+SHA256 = 3B261CCD0457938DF5623D17A8E55AB334C7B2EA693A1206E363817A5030A2F5
+MD5 = 92b1e6d2716f382d0146e1e0a3d7acd0
+ServerFileName = GTA San Andreas (Modernized) Setup.exe
+RegistryKey = HKUD\Software\ItzPeto\GTA San Andreas (Modernized)\Version
+Version = 1.1.1.0
+Feature = New update system
+BugFix = Tried to fix the Mt. Chilliad rendering - succeeded partially
