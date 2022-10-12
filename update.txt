@@ -3,10 +3,10 @@
 [Update]
 Name = GTA San Andreas (Modernized)
 ProductVersion = 1.1.2.0
-URL = https://cdn.matix-media.net/dd/fc16e617
-Size = 3785006073
-SHA256 = F2BA0F8F36A4846DACED90DDD67C16A500C1875736BD4663C189FFD2D8159AC1
-MD5 = ad24338370671a91664ffee8b7010675
+URL = https://cdn.matix-media.net/dd/79117d72
+Size = 3785009051
+SHA256 = 03C86D22ACC44FC64FA1A47CEAB39E397153C5EEE46D59A8DFAF346AF2EC1D31
+MD5 = 4e5a35229d45922bb6d34c965f4fc876
 ServerFileName = GTA San Andreas (Modernized) Setup.exe
 RegistryKey = HKUD\Software\ItzPeto\GTA San Andreas (Modernized)\Version
 Version = 1.1.2.0
