@@ -2,14 +2,16 @@
 
 [Update]
 Name = GTA San Andreas (Modernized)
-ProductVersion = 1.1.3.0
-URL = https://cdn.matix-media.net/dd/1b780511
-Size = 3785008487
-SHA256 = 88FF3F5AB27709EF98FBA7BB4DED736E21151A22EC9CCBB83635E420EF753642
-MD5 = f87fb34b61d1977f429fcac97a3c6c88
+ProductVersion = 1.1.4.0
+URL = https://cdn.matix-media.net/dd/d53c573d
+Size = 3785003487
+SHA256 = 8D039024CBBD4101C27126C8346DB23164E7350CE92C6D44D2024DF9BE5914F3
+MD5 = 669b65e6d1383ed10e89b663446a0ca4
 ServerFileName = GTA San Andreas (Modernized) Setup.exe
 Flags = NoCache
 RegistryKey = HKUD\Software\ItzPeto\GTA San Andreas (Modernized)\Version
-Version = 1.1.3.0
+Version = 1.1.4.0
+Description = Version 1.1.4
 Feature = New update system
-BugFix = Tried to fix the Mt. Chilliad rendering - succeeded partially
+BugFix = Fixed map rendering - all parts of the map should be visible at all times.
+BugFix1 = Fixed SnowFX snow textures not rendering
