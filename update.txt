@@ -1,7 +1,7 @@
 ;aiu;
 
 [Update]
-Name = GTA San Andreas (Modernized) v1.1.3.0
+Name = GTA San Andreas (Modernized)
 ProductVersion = 1.1.3.0
 URL = https://cdn.matix-media.net/dd/1b780511
 Size = 3785008487
