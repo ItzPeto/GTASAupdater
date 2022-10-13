@@ -2,16 +2,14 @@
 
 [Update]
 Name = GTA San Andreas (Modernized)
-ProductVersion = 1.1.4.0
-URL = https://cdn.matix-media.net/dd/d53c573d
-Size = 3785003487
-SHA256 = 8D039024CBBD4101C27126C8346DB23164E7350CE92C6D44D2024DF9BE5914F3
-MD5 = 669b65e6d1383ed10e89b663446a0ca4
+NoGUICommandLineSwitch = /exenoui /qn
+ProductVersion = 1.1.4.1
+URL = https://cdn.matix-media.net/dd/94102a3f
+Size = 3785004481
+SHA256 = 59D3A301343134DAD7F581841C8C497B02B4AC80CCA28BC81E5AD6E239ACFFA4
+MD5 = dd575f45c3bd58f99d3bb8296df7fc31
 ServerFileName = GTA San Andreas (Modernized) Setup.exe
-Flags = NoCache
+Flags = SilentInstall|NoCache|Advertises
 RegistryKey = HKUD\Software\ItzPeto\GTA San Andreas (Modernized)\Version
-Version = 1.1.4.0
-Description = Version 1.1.4
-Feature = New update system
-BugFix = Fixed map rendering - all parts of the map should be visible at all times.
-BugFix1 = Fixed SnowFX snow textures not rendering
+Version = 1.1.4.1
+Description = Version 1.1.4.1
