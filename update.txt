@@ -2,14 +2,13 @@
 
 [Update]
 Name = GTA San Andreas (Modernized)
-NoGUICommandLineSwitch = /exenoui /qn
 ProductVersion = 1.1.4.1
 URL = https://cdn.matix-media.net/dd/94102a3f
 Size = 3785004481
 SHA256 = 59D3A301343134DAD7F581841C8C497B02B4AC80CCA28BC81E5AD6E239ACFFA4
 MD5 = dd575f45c3bd58f99d3bb8296df7fc31
 ServerFileName = GTA San Andreas (Modernized) Setup.exe
-Flags = SilentInstall|NoCache|Advertises
+Flags = SilentInstall|NoCache
 RegistryKey = HKUD\Software\ItzPeto\GTA San Andreas (Modernized)\Version
 Version = 1.1.4.1
 Description = Version 1.1.4.1
