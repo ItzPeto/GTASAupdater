@@ -3,13 +3,19 @@
 [Update]
 Name = GTA San Andreas (Modernized)
 NoGUICommandLineSwitch = /exenoui /qn
-ProductVersion = 1.1.5
-URL = https://cdn.matix-media.net/dd/0c692aad
-Size = 3785001489
-SHA256 = D7E20EDD4D9D0AEC023F6079E1C9C5874AFA9A6A127929459A5BF50F29E29A5C
-MD5 = d389fa3fda307073c5f16afe7e423396
+ProductVersion = 1.1.6
+URL = https://cdn.matix-media.net/dd/bd46e110
+Size = 3785638512
+SHA256 = E16445C929889AB5BE7914580E6D8A945524C6D69B064E5E66D7D7284EFBD7A8
+MD5 = 104417313d62ac643ccc19fd47f3b229
 ServerFileName = GTA San Andreas (Modernized) Setup.exe
 Flags = SilentInstall|NoCache|Advertises
 FilePath = [APPDIR]ItzPeto\GTAUpdate.exe
-Version = 1.1.5
-Description = Version 1.1.5
+Version = 1.1.6
+Description = Version 1.1.6
+Feature = + Discord Rich Presence
+Feature1 = + New launcher, now used to launch both singleplayer and multiplayer
+Feature2 = *** Your antivirus might flag this as a malware due to the aggresive method of injecting into the game - it is completely safe ***
+AutoCloseApplication = [APPDIR]ItzPeto\GTA San Andreas\gta_sa.exe|;;NoRestart
+AutoCloseApplication1 = [APPDIR]ItzPeto\GTA San Andreas\samp.exe|;;NoRestart
+AutoCloseApplication2 = [APPDIR]ItzPeto\GTA San Andreas\SAMPLauncherNET\SAMPLauncherNET.exe|;;NoRestart
