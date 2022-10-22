@@ -4,10 +4,10 @@
 Name = GTA San Andreas (Modernized)
 NoGUICommandLineSwitch = /exenoui /qn
 ProductVersion = 1.2.0
-URL = https://cdn.matix-media.net/dd/e9b82ead
-Size = 3785823890
-SHA256 = 24E8F6C7C9FB61A352588E9DF3027FF8AAEB41E2851A87B93F4FEC5EB14C380E
-MD5 = d5e797e977dc5252ff8569c04cdf6481
+URL = https://cdn.matix-media.net/dd/a6b5bcca
+Size = 3785823126
+SHA256 = 14DCA61BFEEE90417F415DB8F992C2AB7C125D4508EBA556B8243AE82BD4F50B
+MD5 = 13f45aa0a55dbfb64ad218ac1b6fbc65
 ServerFileName = GTA San Andreas (Modernized) Setup.exe
 Flags = SilentInstall|NoCache|Advertises
 FilePath = [APPDIR]ItzPeto\GTAUpdate.exe
