@@ -3,17 +3,19 @@
 [Update]
 Name = GTA San Andreas (Modernized)
 NoGUICommandLineSwitch = /exenoui /qn
-ProductVersion = 1.2.5
-URL = http://129.213.106.159/gtasam-install-full.exe
-Size = 4015301342
-SHA256 = 1C8D4B2AA6D04D11779C234ECFC9ECCA4B8A5121B588C499F0D257FCA931CC12
-MD5 = 68058306ce8dc29185af6d11451678b9
+ProductVersion = 1.2.6
+URL = http://itzpeto.com/gtasam-install-full.exe
+Size = 4015559753
+SHA256 = 36E4B78930997C602C6014938C5C785836A54747A0751A450229B19523743A9E
+MD5 = d76db84c1348ab72b2e6ab7624cd8d66
 ServerFileName = GTA San Andreas (Modernized) Setup.exe
 Flags = SilentInstall|NoCache|Advertises
 FilePath = [APPDIR]ItzPeto\GTAUpdate.exe
-Version = 1.2.5
-Description = Version 1.2.5
-Description1 = Basically 1.2.4 but i accidentally uploaded a development build as 1.2.4
+Version = 1.2.6
+Description = Version 1.2.6
+Description1 = Hopefully everything will work without any major issues, I need a break.
+BugFix = Rolled back to GTA:SAMP 0.3.7-R4 (Incompatible with current launcher)
+BugFix1 = Fixed black screen after alt+tabbing by using a borderless window mode.
 AutoCloseApplication = [APPDIR]ItzPeto\GTA San Andreas\gta_sa.exe|;;NoRestart
 AutoCloseApplication1 = [APPDIR]ItzPeto\GTA San Andreas\samp.exe|;;NoRestart
 AutoCloseApplication2 = [APPDIR]ItzPeto\GTA San Andreas\SAMPLauncherNET\SAMPLauncherNET.exe|;;NoRestart
