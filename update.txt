@@ -4,7 +4,7 @@
 Name = GTA San Andreas (Modernized)
 NoGUICommandLineSwitch = /exenoui /qn
 ProductVersion = 1.2.6
-URL = http://129.213.106.159//gtasam-install-full.exe
+URL = http://moyo.itzpeto.com/gtasam-install-full.exe
 Size = 4015559753
 SHA256 = 36E4B78930997C602C6014938C5C785836A54747A0751A450229B19523743A9E
 MD5 = d76db84c1348ab72b2e6ab7624cd8d66
